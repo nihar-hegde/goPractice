@@ -3,9 +3,10 @@ package main
 import "fmt"
 
 const (
-	spanish            = "Spanish"
-	french             = "French"
-	hindi              = "Hindi"
+	spanish = "Spanish"
+	french  = "French"
+	hindi   = "Hindi"
+
 	englishHelloPrefix = "Hello, "
 	spanishHelloPrefix = "Hola, "
 	frenchHelloPrefix  = "Bonjour, "
