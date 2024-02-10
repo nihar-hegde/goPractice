@@ -9,8 +9,8 @@ func Sum(numbers []int) int {
 	return sum
 }
 
-// NOTE  array is decalred as follows numbers[5] int
-// NOTE slice is decalred as follows numbers[] int
+// NOTE:  array is decalred as follows numbers[5] int
+// NOTE: slice is decalred as follows numbers[] int
 
 func SumAll(numbersToSum ...[]int) []int {
 	var sums []int
